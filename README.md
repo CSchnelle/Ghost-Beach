@@ -1,4 +1,4 @@
-# Ghost-Beach
+# Ghost-Beach - Demo
 A classic text adventure created with python using the pygame module
 
 
