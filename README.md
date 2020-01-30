@@ -3,7 +3,7 @@ A classic text adventure created with python using the pygame module
 
 
 This game is still in progress.
-Once it is fully finished; an executable will be created and the project will be hosted on itch.io for free download.
+Once complete; an executable will be created and the project will be hosted on itch.io for free download.
 
 These files do not contain the .wav files due to sizing constraints on github.
 
