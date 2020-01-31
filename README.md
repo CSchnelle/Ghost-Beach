@@ -21,9 +21,7 @@ Run the finalproject file in cmd/terminal or double click to execute.
 More:
 This project will be published, however it's source code is open 
 so that other students and game developer's can use this as a template for their own unique projects or for learning purposes.
-
-This project was mostly created with functional programming with looping and only uses 
-OOP with the pygame module for music and for logging exception handling.
+This program is done mostly with loops and is spaghet.
 
 
 Ghost Beach is protected under the following license:
