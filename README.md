@@ -1,7 +1,7 @@
 # Ghost-Beach - Demo
 A classic text adventure created with python using the pygame module.
 
-Work in progress.
+Work in progress (remaking in Unity 3D) 
 
 These files do not contain the .wav files for in game music.
 
